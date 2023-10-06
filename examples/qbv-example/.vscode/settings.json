@@ -1,0 +1,6 @@
+{
+    "marklogic.modulesDb": "qbv-project-modules",
+    "marklogic.documentsDb": "qbv-project-content",
+    "marklogic.port": 8150,
+    "marklogic.rejectUnauthorized": false
+}
